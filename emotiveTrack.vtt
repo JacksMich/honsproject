@@ -1,0 +1,53 @@
+WEBVTT
+
+1
+00:00:00.010 --> 00:00:05.000 align:end
+Chatsworth: <c.cyan>Fear</c>
+
+2
+00:00:10.000 --> 00:00:15.000 align:end
+Chatsworth: <c.orange>Surprise</c>
+
+3
+00:00:16.000 --> 00:00:25.000 align:start
+Brewster: <c.red>Shame</c>
+
+4
+00:00:33.000 --> 00:00:36.000
+Hodge: <c.cyan>Fear</cyan>
+
+5
+00:00:38.000 --> 00:00:45.000
+Everyone: <c.orange>Surprise</c>
+
+6
+00:01:01.004 --> 00:01:05.000 align:end
+Chatsworth: <c.yellow>Joy</c>
+
+7
+00:01:05.058 --> 00:01:09.000 align:start
+Brewster: <c.blue>Sad</c>
+
+8
+00:01:10.000 --> 00:01:15.000 align:end
+Chatsworth: <c.green>Happy</c>
+
+9
+00:01:34.000 --> 00:01:38.000
+Brewster: <c.blue>Sad</c>
+
+10
+00:01:38.057 --> 00:01:43.000
+Chatsworth: <c.yellow>Joy</c>
+
+11
+00:01:43.020 --> 00:01:44.010
+Brewster: <c.orange>Surprise</c>
+
+12
+00:01:44.020 --> 00:01:47.000
+Hodge and Eddie: <c.red>Shame</c>
+
+13
+00:01:48.000 --> 00:01:52.000
+Brewster: <c.yellow>Joy</c>
