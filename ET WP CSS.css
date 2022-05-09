@@ -1,7 +1,29 @@
-
-
-#myVideo {
-  float:left;
-  width:40%;
-  height:300px;
+body{
+  background-color: #F1F1F1;
 }
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+main {
+}
+
+#excerptVid {
+  float:left;
+  max-width:100%;
+  height: auto;
+}
+
+video{
+  max-width:100%;
+  height: auto;
+}
+/*colours for the emotive words*/
+::cue(.blue){ color: blue; } /*represents sadness*/
+::cue(.cyan){ color: cyan; } /*represents fear*/
+::cue(.green){ color: green; } /*represents happiness*/
+::cue(.orange){ color: orange; } /*represents surprise*/
+::cue(.red){ color: red; } /*represents shame in this instance but can be used for anger*/
+::cue(.yellow){ color: yellow; } /*represents joy*/
